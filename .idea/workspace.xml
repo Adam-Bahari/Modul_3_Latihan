@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c63c96c-edec-4688-bacf-0a0ab35832a5" name="Changes" comment="" />
+    <list default="true" id="3c63c96c-edec-4688-bacf-0a0ab35832a5" name="Changes" comment="tes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XQOK7yj488RxjhhOx6FVkzBvEd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +37,18 @@
       <option name="presentableId" value="Default" />
       <updated>1698557778823</updated>
     </task>
+    <task id="LOCAL-00001" summary="tes">
+      <created>1698557960690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698557960690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tes" />
+    <option name="LAST_COMMIT_MESSAGE" value="tes" />
   </component>
 </project>
